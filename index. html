@@ -541,7 +541,7 @@
 
         <div class="image-card">
             <img src="ice_8098.jpg" alt="Красный лёд Level 809.8" onerror="this.src='https://placehold.co/800x450/1a222a/8fcbdd?text=Level+809.8+-+Последний+лёд'; this.onerror=null;">
-            <div class="caption">Красный лёд, расстилающийся до горизонта (фото неизвестного)</div>
+            <div class="caption">Красный лёд, расстилающийся до горизонта (фото sombik808)</div>
         </div>
 
         <h2 id="description"><span class="emoji">📌</span> Описание</h2>
